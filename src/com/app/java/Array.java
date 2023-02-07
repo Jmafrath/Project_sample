@@ -1,6 +1,6 @@
 package com.app.java;
 
-public class Array {
+public class ArrayConcept {
 	public static void main(String[] args) {
 		
 		//single dimensional array
